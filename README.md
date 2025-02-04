@@ -1,4 +1,4 @@
-###Tic Tac Toe Game in C++
+# Tic Tac Toe Game in C++
 
 This is a simple game played by 2 playeres, where players take turns to mark X and O on a 3x3 grid. The game continues until one player wins or the game ends in a draw. After each game, players have the option to play again.
 
